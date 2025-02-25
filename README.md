@@ -26,3 +26,10 @@ Problem Statement: Given a string s, the task is to find the sum of the lengths 
 
 Problem Statement: Given a string containing only digits, determine the frequency of each digit (0 through 9) in the string and print them in order from 0 to 9. Each frequency should be printed on a new line, corresponding to the digit's occurrence count in the string.
 
+📌 Day 8: Calculate the Nth Term
+
+Given the first few terms of a sequence, determine the Nth term in that sequence. The sequence follows a specific rule or formula that can be deduced from the provided terms. The task is to find and return the Nth term using that rule.
+
+
+
+
