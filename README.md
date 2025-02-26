@@ -30,6 +30,10 @@ Problem Statement: Given a string containing only digits, determine the frequenc
 
 Given the first few terms of a sequence, determine the Nth term in that sequence. The sequence follows a specific rule or formula that can be deduced from the provided terms. The task is to find and return the Nth term using that rule.
 
+📌 Day 9: Power Calculation
+
+Problem Statement: Write a recursive function to calculate the result of raising a number x to the power n .
+
 
 
 
