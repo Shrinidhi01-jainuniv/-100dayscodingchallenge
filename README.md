@@ -34,6 +34,11 @@ Given the first few terms of a sequence, determine the Nth term in that sequence
 
 Problem Statement: Write a recursive function to calculate the result of raising a number x to the power n .
 
+📌 Day 10: Permuting Two Arrays
+
+Problem Statement: Given two arrays of integers, A and B, and a number k, determine if there exists a permutation of the arrays such that for every index i, the sum of A[i] + B[i] is greater than or equal to k.
+
+
 
 
 
