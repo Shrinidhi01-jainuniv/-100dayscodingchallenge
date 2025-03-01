@@ -38,6 +38,9 @@ Problem Statement: Write a recursive function to calculate the result of raising
 
 Problem Statement: Given two arrays of integers, A and B, and a number k, determine if there exists a permutation of the arrays such that for every index i, the sum of A[i] + B[i] is greater than or equal to k.
 
+📌 Day 11: Array Reversal
+
+Problem Statement: Given an array of integers, reverse the elements of the array and return the reversed array.
 
 
 
