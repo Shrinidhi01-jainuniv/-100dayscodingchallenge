@@ -42,6 +42,9 @@ Problem Statement: Given two arrays of integers, A and B, and a number k, determ
 
 Problem Statement: Given an array of integers, reverse the elements of the array and return the reversed array.
 
+📌 Day 12: Students Marks Sum
+
+Problem Statement: Given an array of student marks, calculate and return the sum of all the marks in the array.
 
 
 
