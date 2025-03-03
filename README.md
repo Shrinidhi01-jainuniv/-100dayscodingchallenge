@@ -46,5 +46,8 @@ Problem Statement: Given an array of integers, reverse the elements of the array
 
 Problem Statement: Given an array of student marks, calculate and return the sum of all the marks in the array.
 
+📌 Day 13: Bitwise Operators
+
+Problem Statement: Given two integers, perform the following bitwise operations: AND, OR, and XOR. Return the results of each operation.
 
 
