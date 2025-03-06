@@ -58,3 +58,6 @@ Problem Statement: You are given an array of size n initialized to zeros and a l
 
 Problem Statement: Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers. Then, print the respective minimum and maximum sums.
 
+📌 Day 16: Time Conversion
+
+Problem Statement: Given a time in 12-hour AM/PM format, convert it to 24-hour military time format. The input is in the format hh:mm:ssAM or hh:mm:ssPM, and the output should be in the format HH:mm:ss.
