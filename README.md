@@ -66,3 +66,6 @@ Problem Statement: Given a time in 12-hour AM/PM format, convert it to 24-hour m
 
 Problem Statement: If the difference between the grade and the next multiple of 5 is less than 3, round the grade up to the next multiple of 5. If the grade is less than 38, no rounding occurs (the grade remains the same).
 
+📌 Day 18: Diagonal Difference
+
+Problem Statement: The primary diagonal is formed by the elements from the top-left to the bottom-right. The secondary diagonal is formed by the elements from the top-right to the bottom-left.
