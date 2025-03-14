@@ -93,3 +93,8 @@ Problem statement:Two cats and a mouse are at various positions on a line. You w
 📌 Day 23:Birthday cake candle
 
 Problem Statement:You are in charge of the cake for a child's birthday. It will have one candle for each year of their total age. They will only be able to blow out the tallest of the candles. Your task is to count how many candles are the tallest.
+
+📌 Day 24:Staircase
+
+Problem Statement:Write a program that prints a staircase of size .
+
