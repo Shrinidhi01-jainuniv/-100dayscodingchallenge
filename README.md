@@ -101,3 +101,8 @@ Problem Statement:Write a program that prints a staircase of size .
 📌 Day 25:Counting Valley
 
 Problem Statement:An avid hiker keeps meticulous records of their hikes. During the last hike that took exactly steps steps, for every step it was noted if it was an uphill, U, or a downhill,D step. Hikes always start and end at sea level, and each step up or down represents a 1 unit change in altitude
+
+📌 Day 26:Electronic City
+
+Problem Statement:A person wants to determine the most expensive computer keyboard and USB drive that can be purchased with a give budget. Given price lists for keyboards and USB drives and a budget, find the cost to buy them. If it is not possible to buy both items,-1 return .
+
