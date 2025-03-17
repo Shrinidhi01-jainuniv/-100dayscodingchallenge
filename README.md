@@ -106,3 +106,7 @@ Problem Statement:An avid hiker keeps meticulous records of their hikes. During 
 
 Problem Statement:A person wants to determine the most expensive computer keyboard and USB drive that can be purchased with a give budget. Given price lists for keyboards and USB drives and a budget, find the cost to buy them. If it is not possible to buy both items,-1 return .
 
+📌 Day 27: Angry Professor
+
+Problem Statement: A Discrete Mathematics professor has a class of students. Frustrated with their lack of discipline, the professor decides to cancel class if fewer than some number of students are present when class starts. Arrival times go from on time (arrival time <=0) to arrived late (arrival time>0).
+
