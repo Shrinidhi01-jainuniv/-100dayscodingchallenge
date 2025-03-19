@@ -113,3 +113,9 @@ Problem Statement: A Discrete Mathematics professor has a class of students. Fru
 📌 Day 28: Circular Array Rotation
 
 Problem Statement: John Watson knows of an operation called a right circular rotation on an array of integers. One rotation operation moves the last array element to the first position and shifts all remaining elements right one. To test Sherlock's abilities, Watson provides Sherlock with an array of integers. Sherlock is to perform the rotation operation a number of times then determine the value of the element at a given position.
+
+📌 Day 29: Hallowen Sale
+
+Problem Statement:You wish to buy video games from the famous online video game store Mist.
+
+Usually, all games are sold at the same price, p dollars. However, they are planning to have the seasonal Halloween Sale next month in which you can buy games at a cheaper price. Specifically, the first game will cost p dollars, and every subsequent game will cost d dollars less than the previous one. This continues until the cost becomes less than or equal to m dollars, after which every game will cost m dollars. How many games can you buy during the Halloween Sale?
