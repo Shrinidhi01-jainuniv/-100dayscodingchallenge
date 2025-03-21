@@ -123,3 +123,7 @@ Usually, all games are sold at the same price, p dollars. However, they are plan
 📌 Day 30: Extra Long Factorial
 
 Problem Statement:Calculate and print the factorial of a given integer.
+
+📌 Day 31: Maximum Element
+
+Problem Statement:You have an empty sequence, and you will be given N queries
