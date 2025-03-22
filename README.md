@@ -127,3 +127,7 @@ Problem Statement:Calculate and print the factorial of a given integer.
 📌 Day 31: Maximum Element
 
 Problem Statement:You have an empty sequence, and you will be given N queries
+
+📌 Day 32: Simple Text Editor
+
+Problem Statement: Implement a simple text editor. The editor initially contains an empty string, S.
